@@ -1,6 +1,7 @@
 # Test Driven RSpec
 
-A screencast series on testing driving Ruby code with RSpec. This respo
+A screencast series on testing driving Ruby code with RSpec. This repo
+contains information about the series and the code from each episode.
 
 [The Test Driven RSpec playlist on YouTube.](https://www.youtube.com/playlist?list=PLr442xinba86s9cCWxoIH_xq5UE9Wwo4Z)
 
