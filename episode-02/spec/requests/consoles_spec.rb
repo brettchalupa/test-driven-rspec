@@ -2,7 +2,7 @@ require 'rails_helper'
 
 RSpec.describe 'Consoles requests' do
   describe 'GET /consoles' do
-    it 'returns an array of some consoles' do
+    it 'returns an array of the consoles' do
       get('/consoles')
       expect(response_json['consoles']).to contain_exactly(
         'NES',
