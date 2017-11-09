@@ -9,6 +9,7 @@ contains information about the series and the code from each episode.
 
 - [Episode 01 - A Simple Class](https://www.youtube.com/watch?v=K6RPMhcRICE)
 - [Episode 02 - Testing a Rails API](https://www.youtube.com/watch?v=Wb3oIfiLdZU)
+- [Episode 03 - Configuring RSpec](https://www.youtube.com/watch?v=mHPKEdgLirA)
 
 ## LICENSE
 
