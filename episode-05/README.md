@@ -1,6 +1,6 @@
 # Test Driven RSpec - Episode 05, Capybara Basics
 
-[Watch the screencast on YouTube.](https://www.youtube.com/watch?v=)
+[Watch the screencast on YouTube.](https://www.youtube.com/watch?v=nsj7nBslgnk)
 
 The completed code from Episode 05. This episode covers interacting with
 web pages in tests using Capybara.

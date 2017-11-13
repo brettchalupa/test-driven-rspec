@@ -11,6 +11,7 @@ contains information about the series and the code from each episode.
 - [Episode 02 - Testing a Rails API](https://www.youtube.com/watch?v=Wb3oIfiLdZU)
 - [Episode 03 - Configuring RSpec](https://www.youtube.com/watch?v=mHPKEdgLirA)
 - [Episode 04 - Unit Testing Models](https://www.youtube.com/watch?v=Vwb5LalpRwI)
+- [Episode 05 - Capybara Basics](https://www.youtube.com/watch?v=nsj7nBslgnk)
 
 ## LICENSE
 
