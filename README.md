@@ -14,7 +14,7 @@ contains information about the series and the code from each episode.
 
 ## LICENSE
 
-Copyright (c) 2016 Monoso
+Copyright (c) 2016-2017 Monoso
 
 Video content and text are copyright Monoso. The code for each epsiode
 is licensed under the MIT license. See
