@@ -6,6 +6,11 @@ The completed code from Episode 06. This episode covers refactoring the
 code from the previous episodes into more organized routes to prepare
 the app for more functionality.
 
+This episode covers:
+
+- Creating namespaces in Rails routes
+- Making adjustments to existing specs
+
 Install the dependencies `bundle install` and run the specs with `bin/rspec`.
 
 Software used:

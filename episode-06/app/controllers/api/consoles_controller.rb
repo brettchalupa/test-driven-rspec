@@ -1,4 +1,4 @@
-class ConsolesController < ApplicationController
+class Api::ConsolesController < ApplicationController
   def index
     if params[:manufacturer].present?
       consoles = Console.where(manufacturer: params[:manufacturer])

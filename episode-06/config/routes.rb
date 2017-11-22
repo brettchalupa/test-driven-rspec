@@ -1,6 +1,9 @@
 Rails.application.routes.draw do
-  get('home' => 'home#index')
+  root(to: 'home#index')
   get('about' => 'about#index')
-  get('status' => 'status#index')
-  get('consoles' => 'consoles#index')
+
+  namespace :api do
+    get('status' => 'status#index')
+    get('consoles' => 'consoles#index')
+  end
 end
