@@ -1,0 +1,11 @@
+<h1>Consoles</h1>
+
+<%= link_to('Add New Console', new_console_path) %>
+
+<ul>
+  <% @consoles.each do |console| %>
+    <li>
+      <%= console.formatted_name %>
+    </li>
+  <% end %>
+</ul>
