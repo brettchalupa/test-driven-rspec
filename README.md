@@ -15,6 +15,13 @@ contains information about the series and the code from each episode.
 - [Episode 06 - Refactoring Routes](https://www.youtube.com/watch?v=e87JhhrZW7s)
 - [Episode 07 - Viewing and Adding Records](https://www.youtube.com/watch?v=4fIuxdeQxR0)
 
+## Download the Series
+
+The entire series is available to watch for free on YouTube. If you'd
+like to download the episodes, you can [purchase it for
+$5](https://gumroad.com/l/test-driven-rspec). That will help support the
+creation of more screencasts.
+
 ## LICENSE
 
 Copyright (c) 2016-2017 Monoso
