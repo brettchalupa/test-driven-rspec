@@ -13,6 +13,7 @@ contains information about the series and the code from each episode.
 - [Episode 04 - Unit Testing Models](https://www.youtube.com/watch?v=Vwb5LalpRwI)
 - [Episode 05 - Capybara Basics](https://www.youtube.com/watch?v=nsj7nBslgnk)
 - [Episode 06 - Refactoring Routes](https://www.youtube.com/watch?v=e87JhhrZW7s)
+- [Episode 07 - Viewing and Adding Records](https://www.youtube.com/watch?v=4fIuxdeQxR0)
 
 ## LICENSE
 
