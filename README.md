@@ -24,9 +24,9 @@ creation of more screencasts.
 
 ## LICENSE
 
-Copyright (c) 2016-2017 Monoso
+Copyright (c) 2016-2017 Brett Chalupa
 
-Video content and text are copyright Monoso. The code for each epsiode
+Video content and text are copyright Brett Chalupa. The code for each epsiode
 is licensed under the MIT license. See
-[LICENSE.md](https://github.com/monoso/test-driven-rspec/blob/master/LICENSE.md)
+[LICENSE.md](https://github.com/brettchalupa/test-driven-rspec/blob/master/LICENSE.md)
 for full terms.
